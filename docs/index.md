@@ -31,8 +31,5 @@ title: 首页
 
 ---
 
-## 社区
-
-群精华消息：<https://qun.qq.com/essence/index?gc=961114239>
 
 欢迎有代码编程能力的大佬加入！
