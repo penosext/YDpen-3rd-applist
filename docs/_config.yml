@@ -1,0 +1,7 @@
+title: 应用市场
+description: 有道词典笔第三方 miniapp 社区资源站
+baseurl: ""
+url: "https://miniapp.posc.net"
+theme: minima
+plugins:
+  - jekyll-seo-tag
