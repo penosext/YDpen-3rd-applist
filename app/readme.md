@@ -1,1 +1,9 @@
-这是软件目录，按appid分文件夹
+# LOLI
+
+---
+
+由 洛 等人维护
+
+---
+
+[见群文件](https://qm.qq.com/q/AVEumDEw0i)
